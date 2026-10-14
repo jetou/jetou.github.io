@@ -66,6 +66,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Professional service
+======
+* Program Committee member, AAAI 2027
+* Reviewer, AISTATS 2027
+
 Skills
 ======
 * **Languages**: Python, C/C++, JavaScript, HTML/CSS

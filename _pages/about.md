@@ -43,3 +43,7 @@ Recognition and Analysis, Practical Machine Learning and Applications, Advanced 
 Security, Research Methods) plus 16 hours of doctoral research and dissertation. Institutions evaluating
 faculty credentials usually need this stated precisely, so it is set out in full on the
 [teaching]({{ base_path }}/teaching/) page and in my [CV]({{ base_path }}/cv/).
+
+## Service
+
+I am on the AAAI 2027 program committee and review for AISTATS 2027.
